@@ -25,7 +25,6 @@
     "websocket-stream": "^1.1.0",
     "ws": "^0.4.32"
   },
-  "main": "lib/jschan.js",
   "scripts": {
     "test": "mocha --recursive test 2>&1",
     "jshint": "jshint --exclude-path .gitignore .",
@@ -37,7 +36,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/GraftJS/jschan.git"
+    "url": "https://github.com/GraftJS/jschan-ws.git"
   },
   "devDependencies": {
     "concat-stream": "^1.4.6",
